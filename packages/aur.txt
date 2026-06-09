@@ -1,0 +1,9 @@
+android-studio
+bibata-cursor-theme
+google-chrome
+noctalia-git
+paru
+paru-debug
+python-clickgen
+sddm-sugar-candy-git
+visual-studio-code-bin

@@ -1,0 +1,22 @@
+# Secrets
+.ssh/
+.gnupg/
+*.key
+*.pem
+*.token
+*.secret
+.env
+.env.*
+
+# Logs
+*.log
+
+# Local/temp
+.cache/
+tmp/
+temp/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
