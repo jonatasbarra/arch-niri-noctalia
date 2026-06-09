@@ -142,33 +142,6 @@ Customizations:
 
 ---
 
-## Development Workspace
-
-Projects are organized under:
-
-```text
-/data/Projects
-```
-
-Suggested structure:
-
-```text
-/data/Projects/
-├── mobile/
-├── web/
-├── backend/
-├── learning/
-└── experiments/
-```
-
-A symbolic link can point to it from the home directory:
-
-```text
-~/Projects -> /data/Projects
-```
-
----
-
 ## Installation Guide
 
 This repository is designed to apply this rice on top of an existing **Arch Linux** installation.
