@@ -561,6 +561,15 @@ Ctrl+Alt+Delete { quit; }
 
 // Power off monitors.
 Mod+Shift+P { power-off-monitors; }
-
+    XF86PowerOff hotkey-overlay-title="Power Menu: Noctalia Session" {
+        spawn "noctalia" "msg" "panel-toggle" "session";
+    }
+    Super+Ctrl+P hotkey-overlay-title="Power Menu: Noctalia Session" {
+    spawn "noctalia" "msg" "panel-toggle" "session";
+    }
 }
+
+
+
+
 
